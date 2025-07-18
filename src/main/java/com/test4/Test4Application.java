@@ -8,10 +8,10 @@ public class Test4Application {
 
 	public static void main(String[] args) {
 
-                
-                boolean t= true;
+                int i=999;
 
-		int c=10;
+
+                int y=89;
 
 		SpringApplication.run(Test4Application.class, args);
 	}
