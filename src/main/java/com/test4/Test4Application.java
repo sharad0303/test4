@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test4Application {
 
 	public static void main(String[] args) {
+
                 int i=999;
+
+
+                int y=89;
+
 		SpringApplication.run(Test4Application.class, args);
 	}
 
