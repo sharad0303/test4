@@ -1,6 +1,3 @@
 otty
 hellooo psaaaaa
-
-hellooo tanu
-
-hellooo sharad
+sharad is learner
